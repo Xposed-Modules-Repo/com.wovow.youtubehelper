@@ -1,3 +1,6 @@
+# YouTube去广告，锁屏播放 | NoAdsBackgroundPlaybackYT
+YouTube去广告，后台播放，息屏播放
+
 
 ## 介绍:
 - 删除YouTube中几乎所有的广告，包括视频播放过程中的广告，实现全程无广告观看视频
